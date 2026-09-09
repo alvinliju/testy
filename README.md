@@ -1,5 +1,7 @@
 # 🧪 Testy
 
+hello world
+
 Testy is no fuss [doctests][doctest] for Node.js. Document your code with
 [JSDoc][jsdoc], provide your [@example][example], and run your tests with
 [Mocha][mocha].
